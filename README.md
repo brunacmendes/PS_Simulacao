@@ -1,4 +1,4 @@
-# PS_Simulacao
+# PS_Simulacao (2019)
 
 Simulação de um Pronto-Socorro em Python para a disciplina Introdução à Simulação. Trabalho realizado no 8º período de Ciência da Computação do Instituto Federal de Minas Gerais (IFMG) - Campus Formiga
 
